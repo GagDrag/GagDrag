@@ -97,7 +97,7 @@
 
 <div align="center">
   <a href="https://open.spotify.com/user/GagDrag">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31osfoibymilugjclm37i47afpyq&unique={true|1|on|yes}" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31osfoibymilugjclm37i47afpyq&unique={true|1|on|yes}&count={1}" alt="Spotify recently played"  />
   </a>
 </div>
 
