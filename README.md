@@ -96,7 +96,9 @@
 ###
 
 <div align="center">
-  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31osfoibymilugjclm37i47afpyq&count={count})
+  <a href="https://open.spotify.com/user/GagDrag">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=GagDrag&count=5" alt="Spotify recently played"  />
+  </a>
 </div>
 
 ###
