@@ -19,8 +19,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GagDrag&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=true" height="150" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GagDrag&locale=en&hide_title=false&layout=default%20&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=GagDrag&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=true&custom_title=mandatory%20stats%20everyone%20has" height="150" alt="stats graph"  />
 </div>
 
 ###
@@ -111,7 +110,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://media1.tenor.com/m/izTNkY2BgkAAAAAC/fade-away-oooooooooooo.gif"  />
+  <img height="200" src="https://imgs.search.brave.com/PpVbKyi_wErm849Fi_UA7F0HAXxoatVKeUCjNiXato8/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTEudGVub3IuY29t/L20vOGROeVRDUXVO/eThBQUFBZC9lbW9q/aS1kaXNhcHBlYXIu/Z2lm.jpeg"  />
 </div>
 
 ###
