@@ -96,8 +96,8 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/GagDrag">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31osfoibymilugjclm37i47afpyq&unique={true|1|on|yes}" alt="Spotify recently played"  />
+  <a href="https://open.spotify.com/user/31osfoibymilugjclm37i47afpyq">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31osfoibymilugjclm37i47afpyq&count=5&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
 
@@ -105,7 +105,7 @@
 
 <br clear="both">
 
-<h4 align="center">mfw my old github account is hacked</h4>
+<h3 align="center">mfw my old github account is hacked</h3>
 
 ###
 
