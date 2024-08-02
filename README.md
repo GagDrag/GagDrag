@@ -14,7 +14,7 @@
 
 <br clear="both">
 
-<h3 align="left">My Stats:</h3>
+<h3 align="center">My Stats:</h3>
 
 ###
 
@@ -28,13 +28,13 @@
 
 <br clear="both">
 
-<h3 align="left">I mainly work with:</h3>
+<h3 align="center">I mainly work with:</h3>
 
 ###
 
 <br clear="both">
 
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
@@ -66,13 +66,13 @@
 
 <br clear="both">
 
-<h3 align="left">Connect with me here:</h3>
+<h3 align="center">Connect with me here:</h3>
 
 ###
 
 <br clear="both">
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/joshi-ojas/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
   </a>
@@ -82,7 +82,7 @@
 
 <br clear="both">
 
-<h3 align="left">Profile Visits:</h3>
+<h3 align="center">Profile Visits:</h3>
 
 ###
 
@@ -96,7 +96,7 @@
 
 <br clear="both">
 
-<h3 align="left">Vibing to:</h3>
+<h3 align="center">Vibing to:</h3>
 
 ###
 
