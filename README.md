@@ -1,3 +1,5 @@
+<br clear="both">
+
 <div align="center">
   <img height="200" src="https://i.pinimg.com/564x/e3/cf/66/e3cf66251ec7c44d1cb4e6d60bad21af.jpg"  />
 </div>
@@ -19,7 +21,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GagDrag&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=true&custom_title=mandatory%20stats%20everyone%20has" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=GagDrag&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=true&custom_title=mandatory%20stats%20everyone%20has" height="150" alt="stats graph"  />
 </div>
 
 ###
@@ -74,16 +76,17 @@
   <a href="https://www.linkedin.com/in/joshi-ojas/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
   </a>
-  <a href="gagdrag" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="35" alt="discord logo"  />
-  </a>
 </div>
 
 ###
 
+<br clear="both">
+
 <h3 align="left">Profile Visits:</h3>
 
 ###
+
+<br clear="both">
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/GagDrag/count.svg?"  />
@@ -91,9 +94,13 @@
 
 ###
 
+<br clear="both">
+
 <h3 align="left">Vibing to:</h3>
 
 ###
+
+<br clear="both">
 
 <div align="center">
   <a href="https://open.spotify.com/user/31osfoibymilugjclm37i47afpyq">
@@ -108,6 +115,8 @@
 <h3 align="center">mfw my old github account is hacked</h3>
 
 ###
+
+<br clear="both">
 
 <div align="center">
   <img height="200" src="https://media1.tenor.com/m/HNBWa_wyADYAAAAC/emoji-emoji-disintegrating.gif"  />
