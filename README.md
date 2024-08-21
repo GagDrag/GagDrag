@@ -3,7 +3,7 @@
 
 <br clear="both">
 
-<h2 align="center">I Make Projects</h2>
+<h2 align="center">Ojas Joshi</h2>
 
 ###
 
