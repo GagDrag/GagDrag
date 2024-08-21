@@ -1,14 +1,9 @@
-<br clear="both">
-
-<div align="center">
-  <img height="200" src="https://i.pinimg.com/564x/e3/cf/66/e3cf66251ec7c44d1cb4e6d60bad21af.jpg"  />
-</div>
 
 ###
 
 <br clear="both">
 
-<h2 align="center">I seldom make projects</h2>
+<h2 align="center">I Make Projects</h2>
 
 ###
 
@@ -110,16 +105,4 @@
 
 ###
 
-<br clear="both">
 
-<h3 align="center">mfw my old github account is hacked</h3>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img height="200" src="https://media1.tenor.com/m/HNBWa_wyADYAAAAC/emoji-emoji-disintegrating.gif"  />
-</div>
-
-###
