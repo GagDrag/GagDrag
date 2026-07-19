@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3200&pause=900&color=E0A30C&center=true&vCenter=true&width=700&height=48&lines=Ojas+Joshi;I+build+AI+tooling+for+Indian-language+accessibility" alt="Ojas Joshi" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3200&pause=900&color=E0A30C&center=true&vCenter=true&width=700&height=48&lines=Ojas+Joshi;I+like+building+things+at+my+leisure" alt="Ojas Joshi" />
 
 <img src="https://raw.githubusercontent.com/GagDrag/GagDrag/main/assets/ascii.svg?v=1" width="704" alt="ASCII portrait" />
 
