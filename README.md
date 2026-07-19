@@ -8,7 +8,7 @@
 
 ---
 
-**Currently building [BhashaBlend](https://github.com/GagDrag/BhashaBlend)** — put a video in, get subtitles back in multiple languages.
+**Currently building [BhashaBlend](https://github.com/GagDrag/BhashaBlend)** — put a video in, get subtitles back in multiple languages. AI voice dubbing and ISL / ASL sign-language support are next up, with a few more fun things en route.
 
 ---
 
