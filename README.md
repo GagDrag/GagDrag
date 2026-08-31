@@ -23,9 +23,11 @@
 
 ---
 
+### Activity
+
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GagDrag&bg_color=0d0d0f&color=f5f2ea&line=e0a30c&point=e0a30c&area=true&area_color=e0a30c&title_color=e0a30c&hide_border=true&custom_title=Contribution%20activity" width="800" alt="Contribution activity" />
+<img src="https://raw.githubusercontent.com/GagDrag/GagDrag/output/snake.svg?v=1" width="800" alt="Contribution activity" />
 
 </div>
 
