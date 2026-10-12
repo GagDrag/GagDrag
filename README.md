@@ -1,41 +1,15 @@
-<div align="center">
+<p align="center">
+<a href="https://www.linkedin.com/in/joshi-ojas/"><img src="assets/readme/portrait.svg" width="40%" alt="Ojas Joshi"></a><a href="https://mail.google.com/mail/?view=cm&fs=1&to=ojas693joshi@gmail.com&su=Hello%20from%20GitHub"><img src="assets/readme/intro.svg" width="60%" alt="I build products end to end"></a>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3200&pause=900&color=E0A30C&center=true&vCenter=true&width=700&height=48&lines=Ojas+Joshi;I+like+building+things+at+my+leisure" alt="Ojas Joshi" />
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/readme/showcase-dark.svg"><img src="assets/readme/showcase-light.svg" width="100%" alt="Project Showcase"></picture>
 
-<img src="https://raw.githubusercontent.com/GagDrag/GagDrag/main/assets/ascii.svg?v=1" width="704" alt="ASCII portrait" />
+<p align="center">
+<a href="https://prayogshala.app"><img src="assets/readme/prayogshala.svg" width="52%" alt="PrayogShala"></a><a href="https://mail.google.com/mail/?view=cm&fs=1&to=ojas693joshi@gmail.com&su=Hello%20from%20GitHub"><img src="assets/readme/tryon.webp" width="48%" alt="AI Virtual Try On, private client project"></a><br>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=ojas693joshi@gmail.com&su=Hello%20from%20GitHub"><img src="assets/readme/bhashablend.svg" width="48%" alt="BhashaBlend"></a><a href="https://preeti-joshi-portfolio.ojassuniljoshi.workers.dev/"><img src="assets/readme/clients-0.svg" width="26%" alt="Client website"></a><a href="https://sanjivkumar-siddul-portfolio.ojassuniljoshi.workers.dev/"><img src="assets/readme/clients-1.svg" width="26%" alt="Client website"></a>
+</p>
 
-</div>
-
----
-
-**Currently building [BhashaBlend](https://github.com/GagDrag/BhashaBlend)** — put a video in, get subtitles back in multiple languages. AI voice dubbing and ISL / ASL sign-language support are next up, with a few more fun things en route.
-
----
-
-### Stack
-
-<table>
-<tr><td><b>AI&nbsp;/&nbsp;ML</b></td><td><img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&theme=dark" height="36" /></td></tr>
-<tr><td><b>Backend</b></td><td><img src="https://skillicons.dev/icons?i=fastapi,nodejs,postgres,mongodb,redis,docker&theme=dark" height="36" /></td></tr>
-<tr><td><b>Frontend</b></td><td><img src="https://skillicons.dev/icons?i=ts,react,nextjs,astro,tailwind&theme=dark" height="36" /></td></tr>
-<tr><td><b>Tooling</b></td><td><img src="https://skillicons.dev/icons?i=git,linux,vercel,vscode&theme=dark" height="36" /></td></tr>
-</table>
-
----
-
-### Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/GagDrag/GagDrag/output/snake.svg?v=1" width="800" alt="Contribution activity" />
-
-</div>
-
----
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/joshi-ojas/"><img src="https://img.shields.io/badge/LinkedIn-0d0d0f?style=for-the-badge&logo=linkedin&logoColor=e0a30c&labelColor=0d0d0f" alt="LinkedIn" /></a>
-<a href="mailto:ojas693joshi@gmail.com"><img src="https://img.shields.io/badge/Email-0d0d0f?style=for-the-badge&logo=gmail&logoColor=e0a30c&labelColor=0d0d0f" alt="Email" /></a>
-
-</div>
+<p align="center">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=ojas693joshi@gmail.com&su=Hello%20from%20GitHub"><img src="assets/readme/neofetch.svg" width="100%" alt="neofetch"></a><br>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=ojas693joshi@gmail.com&su=Hello%20from%20GitHub"><img src="assets/readme/contact.svg" width="68%" alt="Email me"></a><a href="https://www.linkedin.com/in/joshi-ojas/"><img src="assets/readme/linkedin.svg" width="32%" alt="LinkedIn"></a>
+</p>
